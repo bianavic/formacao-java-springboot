@@ -1,4 +1,4 @@
-package org.edu.fabs.formacaojavaspringboot.propertiesvalue;
+package org.edu.fabs.formacaojavaspringboot.configurationproperties;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

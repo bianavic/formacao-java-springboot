@@ -3,7 +3,7 @@ package org.edu.fabs.formacaojavaspringboot;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
-@SpringBootApplication
+//@SpringBootApplication
 public class FormacaoJavaSpringbootApplication {
 
     public static void main(String[] args) {
