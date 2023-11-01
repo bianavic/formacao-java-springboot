@@ -1,5 +1,6 @@
-package org.edu.fabs.formacaojavaspringboot;
+package org.edu.fabs.formacaojavaspringboot.primeirospassos;
 
+import org.edu.fabs.formacaojavaspringboot.primeirospassos.Calculadora;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.stereotype.Component;

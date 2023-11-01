@@ -1,4 +1,4 @@
-package org.edu.fabs.formacaojavaspringboot;
+package org.edu.fabs.formacaojavaspringboot.primeirospassos;
 
 import org.springframework.stereotype.Component;
 
