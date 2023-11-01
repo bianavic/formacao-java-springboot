@@ -1,4 +1,4 @@
-package org.edu.fabs.formacaojavaspringboot.app;
+package org.edu.fabs.formacaojavaspringboot.iocdibeansautowired;
 
 import com.google.gson.Gson;
 import org.springframework.context.annotation.Bean;

@@ -1,4 +1,4 @@
-package org.edu.fabs.formacaojavaspringboot.app;
+package org.edu.fabs.formacaojavaspringboot.iocdibeansautowired;
 
 public class ViaCepResponse {
 
